@@ -1,4 +1,4 @@
-# Envirz: A Simple Alternative to chroot
+# Envirz: A Simple Extension to chroot
 
 Envirz is a script that simplifies the process of creating isolated environments, similar to `chroot`, but without the need to manually mount file systems. It provides an easy-to-use method for setting up and entering chroot-like environments with minimal effort.
 
